@@ -1,0 +1,208 @@
+{
+    "season": 2002,
+    "teams": [
+        {
+            "name": "Scuderia Ferrari",
+            "team_level": 9,
+            "team_image_url": "https://www.example.com/images/ferrari_logo.png",
+            "pilots": [
+                {
+                    "number": 1,
+                    "name": "Michael Schumacher",
+                    "country": "Germany",
+                    "level": 10,
+                    "pilot_image_url": "https://image-cdn.essentiallysports.com/wp-content/uploads/20210107172649/GettyImages-52742979-96x96.jpg"
+                },
+                {
+                    "number": 2,
+                    "name": "Rubens Barrichello",
+                    "country": "Brazil",
+                    "level": 8,
+                    "pilot_image_url": "https://e.i.uol.com.br/f1/2002/rubinho.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Williams F1 Team",
+            "team_level": 8,
+            "team_image_url": "https://www.example.com/images/williams_logo.png",
+            "pilots": [
+                {
+                    "number": 3,
+                    "name": "Juan Pablo Montoya",
+                    "country": "Colombia",
+                    "level": 9,
+                    "pilot_image_url": "https://1.bp.blogspot.com/-d2UCBWkVuwI/VCWfJiztPTI/AAAAAAAAqMQ/07oV5nJXeRU/s1600/03Juan.jpg"
+                },
+                {
+                    "number": 4,
+                    "name": "Ralf Schumacher",
+                    "country": "Germany",
+                    "level": 7,
+                    "pilot_image_url": "https://www.example.com/images/ralf_schumacher_image.png"
+                }
+            ]
+        },
+        {
+            "name": "West McLaren Mercedes",
+            "team_level": 8,
+            "team_image_url": "https://www.example.com/images/mclaren_logo.png",
+            "pilots": [
+                {
+                    "number": 5,
+                    "name": "David Coulthard",
+                    "country": "United Kingdom",
+                    "level": 8,
+                    "pilot_image_url": "https://www.example.com/images/coulthard_image.png"
+                },
+                {
+                    "number": 6,
+                    "name": "Kimi Räikkönen",
+                    "country": "Finland",
+                    "level": 9,
+                    "pilot_image_url": "https://www.example.com/images/raikkonen_image.png"
+                }
+            ]
+        },
+        {
+            "name": "Jaguar Racing",
+            "team_level": 6,
+            "team_image_url": "https://www.example.com/images/jaguar_logo.png",
+            "pilots": [
+                {
+                    "number": 7,
+                    "name": "Eddie Irvine",
+                    "country": "United Kingdom",
+                    "level": 6,
+                    "pilot_image_url": "https://www.example.com/images/irvine_image.png"
+                },
+                {
+                    "number": 8,
+                    "name": "Pedro de la Rosa",
+                    "country": "Spain",
+                    "level": 7,
+                    "pilot_image_url": "https://www.example.com/images/de_la_rosa_image.png"
+                }
+            ]
+        },
+        {
+            "name": "Renault F1 Team",
+            "team_level": 7,
+            "team_image_url": "https://www.example.com/images/renault_logo.png",
+            "pilots": [
+                {
+                    "number": 9,
+                    "name": "Jenson Button",
+                    "country": "United Kingdom",
+                    "level": 9,
+                    "pilot_image_url": "https://www.example.com/images/button_image.png"
+                }
+            ]
+        },
+        {
+            "name": "Sauber",
+            "team_level": 6,
+            "team_image_url": "https://www.example.com/images/sauber_logo.png",
+            "pilots": [
+                {
+                    "number": 10,
+                    "name": "Nick Heidfeld",
+                    "country": "Germany",
+                    "level": 7,
+                    "pilot_image_url": "https://www.example.com/images/heidfeld_image.png"
+                },
+                {
+                    "number": 11,
+                    "name": "Felipe Massa",
+                    "country": "Brazil",
+                    "level": 6,
+                    "pilot_image_url": "https://www.example.com/images/massa_image.png"
+                }
+            ]
+        },
+        {
+            "name": "Arrows",
+            "team_level": 5,
+            "team_image_url": "https://www.example.com/images/arrows_logo.png",
+            "pilots": [
+                {
+                    "number": 12,
+                    "name": "Heinz-Harald Frentzen",
+                    "country": "Germany",
+                    "level": 6,
+                    "pilot_image_url": "https://www.example.com/images/frentzen_image.png"
+                },
+                {
+                    "number": 14,
+                    "name": "Enrique Bernoldi",
+                    "country": "Brazil",
+                    "level": 5,
+                    "pilot_image_url": "https://www.example.com/images/bernoldi_image.png"
+                }
+            ]
+        },
+        {
+            "name": "Minardi",
+            "team_level": 4,
+            "team_image_url": "https://www.example.com/images/minardi_logo.png",
+            "pilots": [
+                {
+                    "number": 15,
+                    "name": "Alex Yoong",
+                    "country": "Malaysia",
+                    "level": 4,
+                    "pilot_image_url": "https://www.example.com/images/yoong_image.png"
+                },
+                {
+                    "number": 16,
+                    "name": "Mark Webber",
+                    "country": "Australia",
+                    "level": 8,
+                    "pilot_image_url": "https://www.example.com/images/webber_image.png"
+                }
+            ]
+        },
+        {
+            "name": "Toyota",
+            "team_level": 7,
+            "team_image_url": "https://www.example.com/images/toyota_logo.png",
+            "pilots": [
+              {
+                "number": 17,
+                "name": "Allan McNish",
+                "country": "United Kingdom",
+                "level": 6,
+                "pilot_image_url": "https://www.example.com/images/mcnish_image.png"
+              },
+              {
+                "number": 18,
+                "name": "Mika Salo",
+                "country": "Finland",
+                "level": 7,
+                "pilot_image_url": "https://www.example.com/images/salo_image.png"
+              }
+            ]
+          },
+          {
+            "name": "BAR",
+            "team_level": 7,
+            "team_image_url": "https://www.example.com/images/bar_logo.png",
+            "pilots": [
+              {
+                "number": 23,
+                "name": "Jacques Villeneuve",
+                "country": "Canada",
+                "level": 8,
+                "pilot_image_url": "https://www.example.com/images/villeneuve_image.png"
+              },
+              {
+                "number": 24,
+                "name": "Olivier Panis",
+                "country": "France",
+                "level": 7,
+                "pilot_image_url": "https://www.example.com/images/panis_image.png"
+              }
+            ]
+          }
+    ]
+}
